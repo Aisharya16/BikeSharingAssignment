@@ -1,11 +1,11 @@
 # Bike Sharing Assignment
 
 ## Table of Contents
-* [Problem Statement]
-* [Technologies Used]
-* [Steps follwed]
-* [Conclusions]
-* [Acknowledgements]
+* Problem Statement
+* Technologies Used
+* Steps follwed
+* Conclusions
+* Acknowledgements
 
 ## Problem Statement
 
