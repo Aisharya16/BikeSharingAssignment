@@ -48,6 +48,6 @@ The company wants to know:
 - I would like to thank all our SMEs and Faculty members for all the support and lectures
 
 ## Contact
-Created by [@Aisharya16] - feel free to contact me!
+Created by [Aisharya16](https://github.com/Aisharya16) - feel free to contact me!
 
 
